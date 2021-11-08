@@ -10,6 +10,6 @@
 <h3 align="center">Discord Dexity Bot / Python</h3>
 <h3 align="center">Discord (Private Request) Bot / Python</h3>
 <h2 align="center">Social Links :</h2>
-* <h3 align="center">Discord</h3>
-* <h3 align="center">Steam</h3>
+<h3 align="center">[https://discord.com](https://example.com)</h3>
+<h3 align="center">Steam</h3>
 <h2 align="center"></h2>
