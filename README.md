@@ -6,3 +6,5 @@
 <h4 align="center">- Python</h4>
 <h4 align="center">- C#</h4>
 <h4 align="center">- Lua</h4>
+<h3 align="center">Currently Working On Project:</h3>
+<h4 align="center">Discord Dexity Bot</h4>
