@@ -10,6 +10,6 @@
 <h3>Discord Dexity Bot / Python</h3>
 <h3>Discord (Private Request) Bot / Python</h3>
 <h2>Social Links :</h2>
-<h3>[Discord]</h3>
-<h3>[Steam]</h3>
+[Discord](Discord.com)
+[Steam](Steam.com)
 <h2></h2>
